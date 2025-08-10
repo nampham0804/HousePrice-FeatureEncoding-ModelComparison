@@ -42,13 +42,13 @@ Final Decision:
 **Model 1** was selected as the preferred model due to its simplicity, slightly better performance on the test set, and suitability for predicting new data.
 
 ---
-
+```text
 ## 📁 Repository Structure
 ├── data/ # Raw datasets
 ├── notebooks/ # Jupyter notebooks for data exploration, preprocessing, modeling, evaluation metrics and visualizations
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
-
+```
 ---
 
 ## 🚀 How to Run
